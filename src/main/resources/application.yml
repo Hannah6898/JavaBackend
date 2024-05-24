@@ -1,0 +1,7 @@
+spring:
+  application:
+   name: "JavaBackend"
+  mvc:
+    view:
+      prefix: "/WEB-INF/views/"
+      suffix: ".jsp"
